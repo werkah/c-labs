@@ -1,9 +1,5 @@
 #include <stdio.h>
 #include <malloc.h>
-//poki nie sa rowne to sprawdzam
-//do licznika dodaje rezultat xor
-//zwiekszam liczbe  o 1 wartosc
-//gdy rowne to sprawdzam gorna granice przedzialu i zwracam ilosc 1
 
 
 int xor(int ex, int bot_n[], int **T ) {
